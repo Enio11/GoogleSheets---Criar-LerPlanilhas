@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5tBLZjYrfWevPSdX+2qpmr+SMf9Ux1OuU2BMYthWhZ6tOK/QOB84FE8npD8id+NH/JrCsB71VVjrjN5hRXHCAQ==",
+  "success": true,
+  "projectFilePath": "/Users/eniomacedo/Desktop/edinholink/QuickStart/QuickStart/QuickStart.csproj",
+  "expectedPackageFiles": [
+    "/Users/eniomacedo/.nuget/packages/google.apis/1.57.0/google.apis.1.57.0.nupkg.sha512",
+    "/Users/eniomacedo/.nuget/packages/google.apis.auth/1.57.0/google.apis.auth.1.57.0.nupkg.sha512",
+    "/Users/eniomacedo/.nuget/packages/google.apis.core/1.57.0/google.apis.core.1.57.0.nupkg.sha512",
+    "/Users/eniomacedo/.nuget/packages/google.apis.sheets.v4/1.57.0.2657/google.apis.sheets.v4.1.57.0.2657.nupkg.sha512",
+    "/Users/eniomacedo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/eniomacedo/.nuget/packages/nuget.frameworks/6.2.0/nuget.frameworks.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
