@@ -35,7 +35,7 @@ namespace SheetsQuickstart
             });
 
             // Define request parameters.
-            String spreadsheetId = "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms";
+            String spreadsheetId = "COLOCA SEU ID AQUI";
             String range = "Class Data!A2:E";
             SpreadsheetsResource.ValuesResource.GetRequest request =
                 service.Spreadsheets.Values.Get(spreadsheetId, range);
